@@ -1,19 +1,10 @@
-# node-todo-cicd
+Node.js Deployment on AWS using Docker, ECR & ECS 
 
-Run these commands:
+Project Overview
 
+This project demonstrates how to deploy a Node.js application on AWS using Docker, Amazon ECR, and ECS.
 
-`sudo apt install nodejs`
+Architecture 
 
-
-`sudo apt install npm`
-
-
-`npm install`
-
-`node app.js`
-
-or Run by docker compose
-
-test
+![Architecture](screenshots/architecture.png)
 
